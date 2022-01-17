@@ -1,0 +1,12 @@
+body {
+  background: #fff;
+  color: black;
+}
+
+.hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
